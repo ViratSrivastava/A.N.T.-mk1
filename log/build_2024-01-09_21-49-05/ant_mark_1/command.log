@@ -1,0 +1,6 @@
+Invoking command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/bhargav/ant_mark_1_ws/src/ant_mark_1 -DCMAKE_INSTALL_PREFIX=/home/bhargav/ant_mark_1_ws/install/ant_mark_1
+Invoked command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/bhargav/ant_mark_1_ws/src/ant_mark_1 -DCMAKE_INSTALL_PREFIX=/home/bhargav/ant_mark_1_ws/install/ant_mark_1
+Invoking command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/bhargav/ant_mark_1_ws/build/ant_mark_1 -- -j6 -l6
+Invoked command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/bhargav/ant_mark_1_ws/build/ant_mark_1 -- -j6 -l6
+Invoking command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/bhargav/ant_mark_1_ws/build/ant_mark_1
+Invoked command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/bhargav/ant_mark_1_ws/build/ant_mark_1
