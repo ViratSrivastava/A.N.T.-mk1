@@ -1,0 +1,42 @@
+[0.063s] Invoking command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/bhargav/ant_mark_1_ws/src/ant_mark_1 -DCMAKE_INSTALL_PREFIX=/home/bhargav/ant_mark_1_ws/install/ant_mark_1
+[0.104s] -- The C compiler identification is GNU 11.4.0
+[0.149s] -- The CXX compiler identification is GNU 11.4.0
+[0.155s] -- Detecting C compiler ABI info
+[0.210s] -- Detecting C compiler ABI info - done
+[0.213s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.214s] -- Detecting C compile features
+[0.214s] -- Detecting C compile features - done
+[0.216s] -- Detecting CXX compiler ABI info
+[0.279s] -- Detecting CXX compiler ABI info - done
+[0.285s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.285s] -- Detecting CXX compile features
+[0.286s] -- Detecting CXX compile features - done
+[0.287s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.415s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.482s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.539s] -- Added test 'lint_cmake' to check CMake code style
+[0.540s] -- Added test 'xmllint' to check XML markup files
+[0.540s] -- Configuring done
+[0.543s] -- Generating done
+[0.543s] -- Build files have been written to: /home/bhargav/ant_mark_1_ws/build/ant_mark_1
+[0.547s] Invoked command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/bhargav/ant_mark_1_ws/src/ant_mark_1 -DCMAKE_INSTALL_PREFIX=/home/bhargav/ant_mark_1_ws/install/ant_mark_1
+[0.548s] Invoking command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/bhargav/ant_mark_1_ws/build/ant_mark_1 -- -j6 -l6
+[0.581s] Invoked command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/bhargav/ant_mark_1_ws/build/ant_mark_1 -- -j6 -l6
+[0.603s] Invoking command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/bhargav/ant_mark_1_ws/build/ant_mark_1
+[0.609s] -- Install configuration: ""
+[0.609s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ament_index/resource_index/package_run_dependencies/ant_mark_1
+[0.609s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ament_index/resource_index/parent_prefix_path/ant_mark_1
+[0.609s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/environment/ament_prefix_path.sh
+[0.609s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/environment/ament_prefix_path.dsv
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/environment/path.sh
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/environment/path.dsv
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/local_setup.bash
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/local_setup.sh
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/local_setup.zsh
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/local_setup.dsv
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/package.dsv
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ament_index/resource_index/packages/ant_mark_1
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/cmake/ant_mark_1Config.cmake
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/cmake/ant_mark_1Config-version.cmake
+[0.610s] -- Installing: /home/bhargav/ant_mark_1_ws/install/ant_mark_1/share/ant_mark_1/package.xml
+[0.612s] Invoked command in '/home/bhargav/ant_mark_1_ws/build/ant_mark_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/bhargav/ant_mark_1_ws/build/ant_mark_1
